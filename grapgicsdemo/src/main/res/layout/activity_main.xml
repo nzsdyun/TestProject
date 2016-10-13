@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:id="@+id/root"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <com.example.sky.grapgicsdemo.graphics.view.CircleView
+                android:layout_width="match_parent"
+                android:layout_height="100dp" />
+            <com.example.sky.grapgicsdemo.graphics.view.DifferentViews
+                android:layout_width="match_parent"
+                android:layout_height="800dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>
