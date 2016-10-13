@@ -1,0 +1,1 @@
+include ':app', ':lib', ':contentproviderdemo', ':newsfragmentdemo', ':filesavedemo', ':phoneintentactivity', ':httputiltest'
