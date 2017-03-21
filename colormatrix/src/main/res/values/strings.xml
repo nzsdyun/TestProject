@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColorMatrix</string>
+
+    <string name="title_activity_color_matrix_api">ColorMatrixApi</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
