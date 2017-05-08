@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">自动添加微信附近联系人</string>
+    <string name="open_accessible_service_tips">设置中打开自动添加微信附近联系人的服务</string>
+    <string name="auto_add_near_contacts_start">开始自动添加附近联系人</string>
+    <string name="auto_add_near_contacts_stop">停止自动添加附近联系人</string>
+    <string name="auto_start_add_near_contacts">添加微信联系人</string>
+    <string name="wx_accessible_no_open">请先在设置中打开微信自动添加服务</string>
+    <string name="wx_no_installed">未找到微信</string>
+    <string name="auto_add_near_contacts_no">请先选中自动添加附近联系人选项</string>
+    <string name="wx_find">发现</string>
+    <string name="wx_near_contacts">附近的人</string>
+    <string name="wx_near_contacts_detail_hello">打招呼</string>
+    <string name="wx_near_contacts_say_hello_send">发送</string>
+    <string name="wx_near_instance_tips">以内</string>
+    <string name="wx_near_instance_km">公里</string>
+    <string name="wx_near_dialog_tips_confirm">确定</string>
+    <string name="wx_near_dialog_tips">提示, 查看附近的人功能将获取你的位置信息，你的位置信息会被保留一段时间。通过列表右上角的清除功能可随时手动清除位置信息。</string>
+</resources>
